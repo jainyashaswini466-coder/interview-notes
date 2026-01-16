@@ -1,7 +1,5 @@
 #### ⚛️ React Fundamentals
 
-#### ⚛️ React Fundamentals
-
 1. [What is React?](#q1-what-is-react)
 2. [What is a Single Page Application (SPA)?](#q2-what-is-a-single-page-application-spa)
 3. [What are components in React and how are they useful?](#q3-what-are-components-in-react-and-how-are-they-useful)
